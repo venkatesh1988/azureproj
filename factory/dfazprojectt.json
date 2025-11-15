@@ -1,0 +1,9 @@
+{
+	"name": "dfazprojectt",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60ed88ae-e0e1-484d-90d1-1f6e059d78fa",
+		"tenantId": "4a25b039-8b13-4a16-8b46-bac79800f5ed"
+	}
+}
